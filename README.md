@@ -1,4 +1,4 @@
-# Travel Booking Analytics Dashboard
+
 # Travel Booking Analytics Dashboard | SQL, SQLite & Power BI
 
 ## Project Overview
