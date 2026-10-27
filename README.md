@@ -15,14 +15,6 @@ This project demonstrates an end-to-end data analytics workflow using **SQL, SQL
 
 The objective was to transform raw booking data into meaningful business insights through SQL-based analysis and dashboard visualisation. The project combines data validation, business KPI calculations, and interactive reporting to demonstrate practical skills relevant to data analyst and business intelligence roles.
 
-## Objectives
-
-- Evaluate booking volumes and cancellation patterns across booking channels.
-- Investigate data quality issues, including missing booking amounts and dates.
-- Calculate and compare cancellation rates across channels.
-- Analyse booking and revenue performance using SQL queries.
-- Communicate key findings through a Power BI dashboard.
-
 ## Project Workflow
 
 ### 1. Data Quality and Validation
