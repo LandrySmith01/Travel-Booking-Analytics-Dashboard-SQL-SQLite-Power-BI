@@ -1,5 +1,10 @@
 
 # Travel Booking Analytics Dashboard | SQL, SQLite & Power BI
+## Power BI Dashboard
+
+View the full dashboard report:
+
+[**View the Travel Booking Analytics Dashboard (PDF)**](./PowerBI%20Travel%20Analytics%20Dashboard.pdf)
 
 ## Project Overview
 
@@ -14,15 +19,6 @@ The objective was to transform raw booking data into meaningful business insight
 - Calculate and compare cancellation rates across channels.
 - Analyse booking and revenue performance using SQL queries.
 - Communicate key findings through a Power BI dashboard.
-
-## Tools & Technologies
-
-| Tool | Application |
-|---|---|
-| SQLite | Database querying and data analysis |
-| SQL | Data validation, aggregations, filtering, and KPI calculations |
-| Microsoft Power BI | Dashboard development and data visualisation |
-| GitHub | Version control and project documentation |
 
 ## Project Workflow
 
@@ -58,18 +54,6 @@ The aim was to make the results accessible to stakeholders and help identify are
 - **Cancellation distribution:** Compared booking channels by both cancellation volume and cancellation rate to distinguish the number of cancellations from the proportion of bookings cancelled.
 - **Data quality:** Investigated missing booking amounts and dates and checked booking counts to understand how incomplete records could affect the analysis.
 - **Business application:** The findings highlight the value of monitoring cancellation behaviour by channel and investigating potential opportunities to improve booking retention.
-
-*Note: Findings reflect the current analysis and should be interpreted in the context of the dataset, its completeness, and the definitions used for each metric.*
-
-## Skills Demonstrated
-
-- SQL querying and relational data analysis
-- Data quality assessment and validation
-- Aggregation and business KPI calculation
-- Exploratory data analysis
-- Dashboard development and data visualisation
-- Business-focused interpretation of analytical results
-- Communicating findings to support data-informed decisions
 
 ## Project Files
 
