@@ -2,6 +2,9 @@
 # Travel Booking Analytics Dashboard | SQL, SQLite & Power BI
 ## Power BI Dashboard
 
+
+<img width="431" height="244" alt="image" src="https://github.com/user-attachments/assets/06c32ca6-0d33-4adc-9497-5fb3847f16f3" />
+
 View the full dashboard report:
 
 [**View the Travel Booking Analytics Dashboard (PDF)**](./PowerBI%20Travel%20Analytics%20Dashboard.pdf)
